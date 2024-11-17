@@ -22,9 +22,10 @@ apt update
 apt upgrade
 pkg install python
 pkg install git
+rm -rf Ig-liker
 git clone --depth=1 https://github.com/JOY-XII/Ig-liker.git
 cd Ig-liker
-python INSTAGRAM-LIKER.py
+python Instagram-like.py
 ```
 ## TOOLS OVERVIEW 
 ![Screenshot of the Script](Picsart_24-11-17_04-41-28-133.jpg)
