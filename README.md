@@ -27,3 +27,4 @@ cd Ig-liker
 python INSTAGRAM-LIKER.py
 ```
 ## TOOLS OVERVIEW 
+![Screenshot of the Script](Picsart_24-11-17_04-41-28-133.jpg)
